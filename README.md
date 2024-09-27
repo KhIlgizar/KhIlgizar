@@ -20,7 +20,7 @@
 - **Backend**: ASP.NET, Node.js, Express, Fastify
 - **DevOps**: Docker, GitLab CI
 - **Testing**: Jest, Cypress, ESLint, Prettier, Selenium, Prometheus, Grafana
-- **Design Tools**: Figma, Pixso ,Storybook
+- **Design Tools**: Figma, Pixso, Storybook
 - **Methodologies**: Gitflow, Micro-Frontend, Web Performance
 
 ---
