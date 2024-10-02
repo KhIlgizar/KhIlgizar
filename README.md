@@ -1,60 +1,30 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Iri,+this+is+.+.+.;" />
+</h1>
 
-<h3 align="center">Senior Web Developer</h3>
+<h3 align="center">A full-stack web developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/NgRx-B83280?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br/>
+<div align="center">
+  
+ 🔭 I’m currently working on **[a tech-stack repo](https://github.com/iriiv/tech-stack)**
+  
+ 🌱 I’m currently learning **NodeJS, Fastify, Docker**
+</div>
+<br/>
 
-## 👨‍💻 About Me
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-### Key Skills:
-- **Frontend**: Angular, React, RxJS, NgRx, SCSS, TaigaUi, HTML5, CSS3
-- **Backend**: ASP.NET, Node.js, Express, Fastify
-- **DevOps**: Docker, GitLab CI
-- **Testing**: Jest, Cypress, ESLint, Prettier, Selenium, Prometheus, Grafana
-- **Design Tools**: Figma, Pixso, Storybook
-- **Methodologies**: Gitflow, Micro-Frontend, Web Performance
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,html,css,npm,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,docker,vscode,cs,dotnet,idea,postman" /><br>
+</div>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriiv&layout=compact&theme=react"  align="center" alt="streak stats"/>
+</div>
 
-## 🛠️ Tech Stack
-
-Here’s a glimpse of my current tech stack:
-
-### Frontend:
-- **Frameworks**: Angular, React
-- **State Management**: NgRx, MobX
-- **Styling**: SCSS, styled-components, TaigaUI
-- **Tools**: Storybook, Figma, Webpack, Electron
-
-### Backend:
-- **Languages**: TypeScript, C#
-- **Frameworks**: Express, Fastify, ASP.NET
-- **API**: REST, GraphQL
-
-### DevOps:
-- **Containerization**: Docker
-- **CI/CD**: GitLab CI
-- **Monitoring**: Grafana, Prometheus
-
-### Testing:
-- **Unit Testing**: Jest, Mocha
-- **Auto Testing**: Selenium
-- **Linting**: ESLint, Stylelint
-
----
-
-## 📫 How to reach me
-
-- Email: [khamidulin.ilgizar@yandex.ru](mailto:khamidulin.ilgizar@yandex.ru)
-- TG: [@ilgizarKh](https://t.me/ilgizarKh)
-- Habr: [Ильгизар Хамидулин](https://career.habr.com/ilgizarkh)
 
