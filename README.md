@@ -17,7 +17,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,html,css,npm,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,html,css,graphql" /><br>
     <img src="https://skillicons.dev/icons?i=npm,docker,vscode,cs,dotnet,idea,postman" /><br>
 </div>
 
