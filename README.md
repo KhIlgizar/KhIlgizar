@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
   
- 🔭 I’m currently working on **[VueMoneu Proj](https://github.com/iriiv/vue-money)**
+ 🔭 I’m currently working on **[VueMoney Proj](https://github.com/iriiv/vue-money)**
  
  🌱 I’m currently learning **Vue.js, Nuxt.js, shadcn-vue**
 </div>
