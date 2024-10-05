@@ -7,9 +7,9 @@
 <br/>
 <div align="center">
   
- 🔭 I’m currently working on **[a tech-stack repo](https://github.com/iriiv/tech-stack)**
-  
- 🌱 I’m currently learning **NodeJS, Fastify, Docker**
+ 🔭 I’m currently working on **[VueMoneu Proj](https://github.com/iriiv/vue-money)**
+ 
+ 🌱 I’m currently learning **Vue.js, Nuxt.js, shadcn-vue**
 </div>
 <br/>
 
@@ -19,6 +19,10 @@
     <img src="https://skillicons.dev/icons?i=react,angular" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,html,css,graphql" /><br>
     <img src="https://skillicons.dev/icons?i=npm,docker,vscode,cs,dotnet,idea,postman" /><br>
+    <br/>
+    in progres...<br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=vue,nuxt" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
